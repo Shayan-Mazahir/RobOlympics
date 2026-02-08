@@ -19,9 +19,6 @@ Two robots built for the RobOlympics competition: a Bluetooth-controlled soccer 
 
 Bluetooth-controlled robot with 8-directional movement and electronic braking system.
 
-![Soccer Robot](Soccer/robot%20in%20action/soccer_robot.jpg)
-*Soccer robot in competition*
-
 **Features:**
 - 8-directional control (forward, back, left, right, and diagonals)
 - 11-speed levels (0-9, q) for precise control
@@ -49,8 +46,6 @@ Bluetooth-controlled robot with 8-directional movement and electronic braking sy
 
 Autonomous robot using PID control for smooth line tracking.
 
-![Line Following Robot](Line%20Following/robot%20in%20action/line_follower.jpg)
-*Line following robot during competition*
 
 **Features:**
 - PID (Proportional) control for smooth corrections
